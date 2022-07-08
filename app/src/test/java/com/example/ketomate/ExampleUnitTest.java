@@ -31,7 +31,7 @@ public class ExampleUnitTest {
     }
 
 
-    //Assume that customer selected large portion and additinally added fish and egg
+    //Assume that customer selected large portion and additionally added fish and egg
 
     @Test
     public void TestPortion1() {
@@ -41,7 +41,7 @@ public class ExampleUnitTest {
         assertEquals(550,outcome,0.001);
     }
 
-    //Assume that customer selected large portion and additinally added chicken, prawns and cuttlefish
+    //Assume that customer selected large portion and additionally added chicken, prawns and cuttlefish
 
     @Test
     public void TestPortion2() {
@@ -51,7 +51,7 @@ public class ExampleUnitTest {
         assertEquals(940,outcome,0.001);
     }
 
-    //Assume that customer selected medium portion and additinally added fish and egg
+    //Assume that customer selected medium portion and additionally added fish and egg
 
     @Test
     public void TestPortion3() {
@@ -61,7 +61,7 @@ public class ExampleUnitTest {
         assertEquals(450,outcome,0.001);
     }
 
-    //Assume that customer selected medium portion and additinally added chicken, prawns and cuttlefish
+    //Assume that customer selected medium portion and additionally added chicken, prawns and cuttlefish
 
     @Test
     public void TestPortion4() {
@@ -71,7 +71,7 @@ public class ExampleUnitTest {
         assertEquals(840,outcome,0.001);
     }
 
-    //Assume that customer selected large portion and additinally added  prawns and egg
+    //Assume that customer selected large portion and additionally added  prawns and egg
 
     @Test
     public void TestPortion5() {
